@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4772"
+   height="480"
+   viewBox="0 0 640 480"
+   width="640"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="heart_rate.svg">
+  <defs
+     id="defs4146" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview4144"
+     showgrid="false"
+     inkscape:zoom="1.2645833"
+     inkscape:cx="294.29984"
+     inkscape:cy="240"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4772" />
+  <metadata
+     id="metadata4778">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4"
+     opacity=".3"
+     style="stroke:#2c3e5f;stroke-opacity:0.94117647">
+    <g
+       id="layer2"
+       stroke-linejoin="round"
+       transform="matrix(1.0111 0 0 1 -7.17 -.0000011216)"
+       stroke="#3498db"
+       stroke-linecap="square"
+       stroke-miterlimit="9"
+       stroke-width="8.9503"
+       style="stroke:#2c3e5f;stroke-opacity:0.94117647">
+      <path
+         id="path"
+         stroke-linejoin="round"
+         d="m4.7575 237.37h73.74l19.518-11.27 21.294 21.3 17.47-25.79 10.7 168.59 17.55-298.53 20.81 162.94 19.03-30.33 12.49 14.87h96.34l14.86-12.19 18.74 28.84 18.43-31.82 12.79 163.24 16.95-292.88 21.41 158.19 16.95-30.33 14.57 16.95h195.36"
+         stroke="#3498db"
+         stroke-linecap="square"
+         stroke-miterlimit="9"
+         stroke-width="8.9503"
+         fill="none"
+         style="stroke:#2c3e5f;stroke-opacity:0.94117647" />
+    </g>
+  </g>
+  <g
+     id="layer3"
+     opacity=".29953"
+     style="fill:#2c3e5f;fill-opacity:0.94117647">
+    <g
+       id="layer1"
+       stroke="#3498db"
+       style="fill:#2c3e5f;fill-opacity:0.94117647">
+      <circle
+         id="pulse"
+         cx="0"
+         cy="0"
+         r="11.148"
+         stroke-miterlimit="7.2"
+         stroke-width="0"
+         style="fill:#2c3e5f;fill-opacity:0.94117647">
+        <animateMotion
+           repeatCount="indefinite"
+           dur="5">
+          <mpath
+             xlink:href="#path" />
+        </animateMotion>
+      </circle>
+    </g>
+  </g>
+</svg>
