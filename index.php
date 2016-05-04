@@ -17,7 +17,7 @@
 			</header>
 
 			<div id="parrafo">
-				<p> Si usted está afiliado a seguros Medik cree aqui su cita.</p>
+				<p> Si usted está afiliado a seguros Medik cree aquí su cita.</p>
 			</div>
 
 			<div id="buttons">
